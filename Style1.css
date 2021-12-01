@@ -1,0 +1,39 @@
+/*
+style1.css
+---------
+ 
+By FRANOT-NARTEY Alexandre 
+*/
+
+@import url(https://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLDz8Z1JlFc-K.woff2);
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppons' ,sans-serif;
+}
+
+body
+{
+    overflow-x: hidden;
+    background: #ffff;
+    min-height: 100vh;
+}
+
+#header
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 30px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#header .logo
+{
+    color : #2d199c
+}
