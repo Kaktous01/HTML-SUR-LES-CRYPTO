@@ -11,13 +11,13 @@ By FRANOT-NARTEY Alexandre
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Poppons' ,sans-serif;
+    font-family: 'Poppins' ,sans-serif;
 }
 
 body
 {
     overflow-x: hidden;
-    background: #ffff;
+    background: #2d199c;
     min-height: 100vh;
 }
 
