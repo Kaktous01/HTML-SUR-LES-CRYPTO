@@ -118,3 +118,11 @@ section #texte samp
     font-weight: 400;
     font-family: 'Roboto Mono', monospace;
 }
+.Vidéo
+{
+    text-align: center;
+}
+.Colorlink
+{
+    color: red;
+}
