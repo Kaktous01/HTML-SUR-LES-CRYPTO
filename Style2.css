@@ -104,7 +104,7 @@ section
 section #texte 
 {
     position:absolute;
-    color: #094b65;
+    color: #650909;
     font-size: 10vw;
     text-align: center;
     line-height: 0.55em;
@@ -123,5 +123,6 @@ section #texte samp
 {
 	list-style-type: none;
 	display: inline-block;
-	list-style-position: center;
+    text-align: center;
+    list-style-position: center;
 }
